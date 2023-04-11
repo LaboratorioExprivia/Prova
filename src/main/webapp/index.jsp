@@ -1,6 +1,6 @@
 <!DOCTYPE>
-<html>
-  <head lang="en">
+<html lang="en">
+  <head>
     <title>Prova</title>
   </head>
   <body>
